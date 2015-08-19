@@ -1,0 +1,70 @@
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	font-family: 'Bitter', serif;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Bitter', serif;
+	text-align: center;
+}
+
+header {
+	width: 60%;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section {
+	width: 60%;
+	margin: auto;
+
+}
+
+a {
+	text-decoration: none;
+	color: #D11919;
+}
+
+a.me {
+	text-decoration: none;
+}
+
+footer {
+	margin-top: 150px;
+}
+
+h1 {
+	margin: 50px;
+}
+
+h1.red {
+	color: #D11919;
+	margin-bottom: 20px;
+}
+
+h3.quote {
+	text-align: justify;
+	margin-top: 30px;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+
+h3.attr {
+	text-align: right;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+
+p {
+	margin: 20px;
+	text-align: justify;
+}
