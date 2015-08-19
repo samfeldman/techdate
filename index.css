@@ -67,3 +67,12 @@ p {
 	margin: 20px;
 	text-align: justify;
 }
+
+footer {
+	color: #D11919;
+	margin: 100px;
+}
+
+footer > a {
+	text-decoration: none;
+}
